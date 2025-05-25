@@ -2,6 +2,12 @@
 
 AI Mock Interview is a web application designed to help users improve their interview skills and increase their chances of landing their dream job. With AI-driven insights, personalized mock interviews, and targeted practice, this platform provides a smarter way to prepare for interviews.
 
+![image](https://github.com/user-attachments/assets/620ac226-baee-435f-b2a8-a51748c09bb6)
+
+# Live Demo:
+
+👉 [Visit site here](https://ai-mock-interview-sable-gamma.vercel.app/) to try the AI Mock Interview app!
+
 ## Features
 
 - **AI-Powered Mock Interviews**: Generate realistic interview questions and answers tailored to your desired job role.
